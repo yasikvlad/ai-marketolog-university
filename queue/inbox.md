@@ -68,3 +68,5 @@
 ## Rejected
 
 <!-- Формат: - <URL> — reason: <why> -->
+
+<!-- auto-sync test 2026-05-19 21:13 -->
