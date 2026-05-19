@@ -1,0 +1,48 @@
+id: src-20260518-conference-deck-ai-sotrudniki
+source: Vercel-веб-презентация для конференц-выступления
+canonical_url: https://conference-deck.vercel.app/
+title: "AI-сотрудники для личного бренда — 30-минутная конференц-преза Влада Яско"
+author: Vlad Yasko
+date_published: 2026-05 (точная дата не указана; обнаружено пользователем 2026-05-18)
+duration_min: 30
+type: web-deck
+fetched_at: 2026-05-18
+fetch_method: WebFetch (server-rendered HTML)
+quality: 9
+relevance: 5
+flags:
+  bias.protocol_sponsored: false
+  bias.marketing: true
+  bias.public_speaking: true   # формат «зал на конференции», не онлайн
+notes: |
+  Это **сжатая 30-минутная версия** того же материала, что и
+  [[src-20260401-webinar-ai-sotrudniki]] (3.5-часовой вебинар Потока 2).
+  Формат deck-страницы на Vercel, проходишь слайды → QR с конспектом.
+  Открывается заявкой «эту презу сделала нейронка за час, без меня».
+
+  **Подтверждает разделение AI-Маркетолог vs AI-Ковчег** ([[kovcheg-vs-marketolog-different-products]]):
+  Влад в одной презентации показывает обе экосистемы как отдельные продукты:
+  - AI-Маркетолог: new.aimarketolog.site
+  - AI-Ковчег: lp.kovcheg.ai/main-program + lp.kovcheg.ai/analytics/dashboard + lp.kovcheg.ai/report
+  + дополнительные продукты: neurosamurai.vercel.app, dopenomics.ru
+  + ростер сотрудников: virtual-employees-personal.vercel.app
+  + бонус-страница: bonus.aimarketolog.site
+
+  Что НОВОЕ vs вебинар:
+  - Жёстко структурированный **8-этапный пайплайн** (вместо ad-hoc 11 шагов на демо)
+  - Финальная виральная цитата: «Эксперт без AI продаёт свой час. Эксперт с AI
+    продаёт свою методологию, пока спит»
+  - Conference-механика виральности — кодовое слово КОНФЕРЕНЦИЯ → бот @Yasko_support
+  - P.S./P.S.² — 2 личные переписки на финальном слайде (приём «было/стало»)
+
+  Что отбросилось из вебинара:
+  - Live-демо на случайном зрителе (но обещано «возьму из зала» — может варьироваться)
+  - Кейс Софии Дробининой в полном объёме
+  - Партнёр Сергей Евсюков и расширение оффера
+  - Открытый Q&A
+  - 14 блоков → 19 слайдов с другой логикой
+
+  **Подарки залу** — те же 3 скилла, что Влад дарил на вебинаре + 1:
+  - stories-yasko (S — Сторис-мейкер)
+  - philipenko-reels-method (R — Reels по Филипенко)
+  - sales-assistant (\$ — AI Sales Agent)

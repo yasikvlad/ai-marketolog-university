@@ -1,0 +1,23 @@
+id: src-20260513-aimarketolog-site-new
+url: https://new.aimarketolog.site/
+canonical_url: https://new.aimarketolog.site/
+title: AI-Маркетолог — Собственная ИИ-команда за 8 недель (Поток II)
+author: Vlad Yasko
+date_published: 2026-04 (estimated, до запуска Потока II 18.04.2026)
+type: landing-page
+fetched_at: 2026-05-13
+fetch_method: WebFetch
+quality: 7
+relevance: 5
+flags:
+  bias.protocol_sponsored: false
+  bias.marketing: true
+notes: |
+  Это новый продакшен-лендинг AI-Маркетолога Потока II.
+  Заменяет (или существует параллельно с) старым https://landing-steel-five-73.vercel.app
+  Содержит существенные изменения относительно seed-документов библиотеки:
+  - Новая ценовая сетка ($297 / $647 / $997 / $2500) — не совпадает с seed ($250 / $500 / $800 / $3500)
+  - Новая структура пакетов («Фокус группа» вместо «Под ключ»)
+  - Дата старта: 18.04.2026
+  - 8 недель × 8 модулей × 8 продуктов (более структурированно vs seed)
+  - Новые блоки: история Влада 2012-2026, 6 бонусов, калькулятор потерь, FAQ, Спецбронь $25

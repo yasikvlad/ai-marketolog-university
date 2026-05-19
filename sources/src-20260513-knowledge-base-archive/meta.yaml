@@ -1,0 +1,55 @@
+id: src-20260513-knowledge-base-archive
+source: БАЗА ЗНАНИЙ.zip (передан Владом 2026-05-13)
+canonical_url: null
+title: AI-Маркетолог — полная база знаний 1+2 потока (транскрипции + Telegram-экспорты)
+author: Vlad Yasko
+date_published: 2026-02 — 2026-05
+type: archive
+fetched_at: 2026-05-13
+fetch_method: zip-extract
+quality: 10
+relevance: 5
+flags:
+  bias.protocol_sponsored: false
+  bias.marketing: false
+notes: |
+  Архивный source со СЛЕЖОНЫМИ материалами курса:
+  - 17 транскрипций уроков Потока 1 (ONBOARDING, Deep Research, NotebookLM, Маркетинг и упаковка, Создание лендингов, Vibe Coding, Визуальный контент, Контент-завод, Чат-боты, Workflow x3, Q&A x3, опен_кло)
+  - 7 материалов Потока 2 (ВШ№1-4 + Q&A №1-3)
+  - 2 JSON экспорта Telegram (чат + канал второго потока)
+  - 1 Notion-экспорт AI-Маркетолог 2.0
+
+  Из методологии §1.1 это **первичные внутренние источники**, повторно не конспектируются —
+  они САМИ конспекты дословной речи Влада на уроках. НО извлечение atomic notes и claims
+  из них разрешено и желательно. На текущей итерации НЕ обработано — добавлено в queue/inbox.md.
+
+inventory:
+  potok_1_transkripcii:
+    - "ONBOARDING-стрим_.txt.md"
+    - "Deep_Research_и_стратегический_анализ.txt.md"
+    - "Deep_Research_Алгоритм_Стратегического_Анализа_—_Влад_Яско.md"
+    - "Маркетинг_и_упаковка_От_анализа_ЦА_до_оффера.md"
+    - "упаковка_продукта.txt.md"
+    - "Notebook_LM_урок.txt.md"
+    - "Создание_лендингов.txt.md"
+    - "Vibe_Coding_—_Создание_лендингов_от_HTML_до_сайта_за_один_сеанс.md"
+    - "Визуальный_контент.txt.md"
+    - "Система_автоматизации_контента_17.03.txt.md"
+    - "Создание_умных_чат-ботов_и_автоматизация_воронок.txt.md"
+    - "20.03_Транскрипт_workflow.txt.md"
+    - "24.03_опен_кло.md"
+    - "Workflow-сессия_по_модулю_6.txt.md"
+    - "Q&A_+_разбор_workflow_1.txt.md"
+    - "Q&A_+_разбор_workflow_2.txt.md"
+    - "Q&A_+_разбор_workflow_3.txt.md"
+  potok_2_transkripcii:
+    - "ВШ_№1.txt.md"
+    - "ВШ_№2.md"
+    - "ВШ_№3.md"
+    - "ВШ_№4.docx.md"
+    - "Q&A_№1.txt.md"
+    - "Q&A_№2.txt.md"
+    - "Q&A_№3._Skills.txt.md"
+  telegram_eksport_potok_2:
+    - "експорт канала 12.05 Второй поток.json (165 KB)"
+    - "експорт чата 12.05 Второй поток.json (2.2 MB)"

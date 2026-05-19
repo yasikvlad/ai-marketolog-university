@@ -1,0 +1,40 @@
+# Template: sources/<src-id>/meta.yaml
+id: src-YYYYMMDD-<slug>
+url: https://...
+canonical_url: https://... # без utm_*, fbclid, ref= и прочих трекеров
+type: paper | whitepaper | blog | docs | youtube | forum | thread | dataset | book
+title: ''
+authors: [] # [{name: "...", affiliation: "..."}]
+published: YYYY-MM-DD | null
+fetched_at: YYYY-MM-DDTHH:MM:SSZ
+language: en | ru | ...
+fetch_method: webfetch | manual-paste | yt-transcript | pdf-extract
+storage:
+  original: original.html | original.pdf | transcript.txt
+  bytes: 0
+
+relevance: 0-5 # §2
+quality: 0-10 # §3
+quality_breakdown:
+  primary_source: true/false
+  author_credible: true/false
+  has_math: true/false
+  has_empirics: true/false
+  reproducible: true/false
+  recent: true/false
+  cited: true/false
+  substance_over_disclaimer: true/false
+
+bias:
+  protocol_sponsored: false
+  marketing: false
+  notes: ''
+
+extracted:
+  notes: [] # [n-slug, ...]
+  claims: [] # [c-NNNN, ...]
+  contradictions: []
+  outbound_links_tracked: 0
+
+status: processed | borderline | rejected
+reject_reason: null
