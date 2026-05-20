@@ -122,6 +122,7 @@ _Generated/updated при обработке источников. Ручная 
 | syn-offer-and-positioning | Оффер, пакеты, позиционирование | 2026-05-13 | 5 | 7 |
 | syn-funnel-strategy | Воронка + вебинар + конкуренты | 2026-05-12 | 3 | 3 |
 | syn-methodology-and-content-assets | 7 методологий + IP-активы + траектория | 2026-05-12 | 3 | 2 |
+| syn-potok3-program-design | Дизайн программы Потока 3 (10 недель, 8 модулей + AI-таргет + выпускной) | 2026-05-20 | 11 | 13 |
 
 ## Contradictions
 
