@@ -23,6 +23,7 @@ _Generated/updated при обработке источников. Ручная 
 
 | ID | Title | Author | Date | Quality | Relevance | Status |
 |----|-------|--------|------|---------|-----------|--------|
+| src-20260603-potok2-lesson-transcripts | Полные транскрибации уроков Потока 2 (6 ВШ + Визуал + Карусели + 5 Q&A) — первоисточник реальной программы | Влад Ясько + гости | 2026-03..05 | 10 | 5 | processed |
 | src-20260401-webinar-ai-sotrudniki | Вебинар-запуск Потока 2 «AI-сотрудники вместо отдела маркетинга» (YouTube, ≈3ч 25м) | Влад Ясько + Сергей Евсюков | 2026-04-01 | 10 | 5 | processed |
 | src-20260518-conference-deck-ai-sotrudniki | Конференц-преза 30 мин «AI-сотрудники для личного бренда» (conference-deck.vercel.app, 19 слайдов) | Влад Ясько | 2026-05 | 9 | 5 | processed |
 | src-20260518-aimarketolog-site-current | AI-Маркетолог лендинг АКТУАЛЬНОЕ (new.aimarketolog.site, 9 нед, $397-$2999) | Влад Ясько | 2026-05-18 | 9 | 5 | processed |
@@ -122,6 +123,7 @@ _Generated/updated при обработке источников. Ручная 
 | syn-offer-and-positioning | Оффер, пакеты, позиционирование | 2026-05-13 | 5 | 7 |
 | syn-funnel-strategy | Воронка + вебинар + конкуренты | 2026-05-12 | 3 | 3 |
 | syn-methodology-and-content-assets | 7 методологий + IP-активы + траектория | 2026-05-12 | 3 | 2 |
+| syn-potok3-program-structure | Структура Потока 3: модули + ЦКР + пакеты + развилки | 2026-06-03 | 3 | — |
 
 ## Contradictions
 
